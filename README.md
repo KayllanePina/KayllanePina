@@ -1,6 +1,8 @@
-# Me chamo Kayllane 🖖🏽
+ # Me chamo Kayllane 🖖
 
-## I'm currently studying to become a back-end developer 👩‍🎓
+### I'm currently studying to become a back-end developer 👩‍🎓
+
+<br>
 
 <div>
   <a href="https://github.com/KayPina">
