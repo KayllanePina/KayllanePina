@@ -1,6 +1,6 @@
  # Me chamo Kayllane 🖖
 
-#### - I'm currently studying to become a back-end developer 👩‍🎓
+#### - I'm currently studying to become a  FullStack developer 👩‍🎓
 
 ##
 
