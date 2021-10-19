@@ -1,4 +1,4 @@
-# <p align="center">Olá, mundo! 🖖🏽</p>
+# <p align="center">Hello, world!</p>
 
 ### I'm currently studying to become a  FullStack developer 👩‍🎓
 
