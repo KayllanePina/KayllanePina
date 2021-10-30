@@ -1,6 +1,6 @@
 # <p align="center">Hello, world!</p>
 
-### I'm currently studying to become a  FullStack developer 👩‍🎓
+## I'm currently studying to become a  FullStack developer 👩‍🎓
 
 ##
 
