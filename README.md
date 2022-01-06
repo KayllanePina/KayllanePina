@@ -4,7 +4,7 @@
 
 - I'm 19 years old
 
-* I love animals, games, music and all the kind of sports
+* I love animals, games, music and all kinds of sports
 
 -------------------------------------------
 
