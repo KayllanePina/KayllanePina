@@ -3,7 +3,6 @@
 
 * I'm 19 years old
 * I love animals, games, music and all kinds of sports
-* I'm currently studying TypeScript and NodeJS
 
 ##
 
