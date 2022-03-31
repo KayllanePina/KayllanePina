@@ -1,10 +1,19 @@
-# <p align="center">Hello, world!</p>
-
-
-* I'm 19 years old
-* I love animals, games, music and all kinds of sports
+# Hello, world!
 
 ##
+
+### Sobre mim:
+
+- Me chamo Kayllane, mas pode me  chamar de Kay 😁.
+- Atualmente estou cursando o 3º perídodo de Análise e Desenvolvimento de Sistemas.
+- Atuo como estagiária na Matera.
+- Meu foco é ser desenvolvedor back-end.
+- Amo animais e músicas.
+- As linguagens que eu mais gosto são: _Java_, _JavaScript_ e _Node_.
+
+-----------
+
+
 
 <div align="center">
   <a href="https://github.com/KayPina">
