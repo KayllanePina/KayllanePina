@@ -6,8 +6,7 @@
 - Atualmente estou cursando o 3º perídodo de Análise e Desenvolvimento de Sistemas.
 - Atuo como estagiária na Matera.
 - Meu foco é ser desenvolvedora back-end.
-- Amo animais e músicas.
-- As linguagens que eu mais gosto são: _Java_, _JavaScript_ e _Node_.
+- Amo animais, esportes e músicas.
 
 -----------
 
