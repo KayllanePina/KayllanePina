@@ -9,23 +9,8 @@
 - Amo animais, esportes e músicas.
 
 -----------
-
-
-
-<div align="center">
-  <a href="https://github.com/KayllanePina">
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=KayPina&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayPina&&layout=compact&hide=shell&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block" align='center'> <br>
-  <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kay-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Kay-NODE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="KAY-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>   
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayllanePina&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayllanePina&layout=Default)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
 
